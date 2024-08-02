@@ -28,7 +28,7 @@ This project is a simple web application that displays random user details fetch
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RandomUser/random-user-app.git
+   git clone (https://github.com/Dthuong812/RandomUser.git)
    cd random-user-app
    ```
 
